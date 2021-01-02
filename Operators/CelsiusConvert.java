@@ -6,7 +6,7 @@ public class CelsiusConvert {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int temp=30;
+		int temp;
 		
 		float cel= (temp - 32) * 5/9 ;
 		
